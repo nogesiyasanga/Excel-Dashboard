@@ -5,10 +5,10 @@ Here's a Data Analysis project of using Pivot Tables. Check out my project and g
 
 
 # These are some Screenshot of Sales Report.
-<img src="https://github.com/nogesiyasanga/Excel-Dashboard/Summary of Sales.PNG" alt="alt text" height=300 width="500"/>         <img src="https://github.com/nogesiyasanga/Excel-Dashboard/Sales By category By Years.PNG" alt="drawing"  height=300 width="500"/>
+<img src="https://github.com/nogesiyasanga/Excel-Dashboard/blob/main/Summary%20of%20Sales.PNG" alt="alt text" height=300 width="500"/>         <img src="https://github.com/nogesiyasanga/Excel-Dashboard/blob/main/Sales%20By%20category%20By%20Years.PNG" alt="drawing"  height=300 width="500"/>
 
 
-<img src="https://github.com/nogesiyasanga/Excel-Dashboard/Sales Trends.PNG" alt="drawing"  height=300 width="500"/>        
+<img src="https://github.com/nogesiyasanga/Excel-Dashboard/blob/main/Sales%20Trends.PNG" alt="drawing"  height=300 width="500"/>        
          
 
 
